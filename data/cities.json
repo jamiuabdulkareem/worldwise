@@ -24,7 +24,6 @@
       },
       "id": 22443197
     },
-
     {
       "cityName": "Lisbon",
       "country": "Portugal",
@@ -36,6 +35,30 @@
         "lng": 13.376933665713324
       },
       "id": 443197
+    },
+    {
+      "cityName": "Ede South",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2023-08-13T01:41:27.489Z",
+      "notes": "test",
+      "position": {
+        "lat": "7.705485952976687",
+        "lng": "4.455064553177653"
+      },
+      "id": 22443200
+    },
+    {
+      "cityName": "Oluyole",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2023-08-13T01:44:47.420Z",
+      "notes": "kkkk",
+      "position": {
+        "lat": "7.301101803114732",
+        "lng": "3.9716889669307425"
+      },
+      "id": 22443201
     }
   ]
 }
