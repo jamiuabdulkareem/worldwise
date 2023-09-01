@@ -25,18 +25,6 @@
       "id": 22443197
     },
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 443197
-    },
-    {
       "cityName": "Ede South",
       "country": "Nigeria",
       "emoji": "🇳🇬",
@@ -49,14 +37,26 @@
       "id": 22443200
     },
     {
-      "cityName": "Ede North",
+      "cityName": "Ede South",
       "country": "Nigeria",
       "emoji": "🇳🇬",
-      "date": "2023-08-19T23:19:23.263Z",
-      "notes": "jkkkkkk",
+      "date": "2023-09-01T00:09:15.443Z",
+      "notes": "",
       "position": {
-        "lat": "7.709110109457755",
-        "lng": "4.53341734880032"
+        "lat": "7.70444240345037",
+        "lng": "4.409551620483399"
+      },
+      "id": 22443201
+    },
+    {
+      "cityName": "West Hughes",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-01T00:29:06.678Z",
+      "notes": "hello",
+      "position": {
+        "lat": "44.465151013519645",
+        "lng": "-100.15136718750001"
       },
       "id": 22443203
     }
