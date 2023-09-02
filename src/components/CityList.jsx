@@ -9,7 +9,7 @@ function CityList() {
 
   if (isLoading) return <Spinner />;
 
-  // if there is no data
+  // if there is no data !!
   if (!cities.length)
     return (
       <Message message="Add your first city by clicking on a city on the map" />
